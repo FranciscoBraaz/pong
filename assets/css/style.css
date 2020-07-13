@@ -86,3 +86,24 @@ body {
     background-color: rgb(68, 68, 68);
 }
 
+.placar {
+    position: absolute;
+    width: 250px;
+    height: 120px;
+    left: 557px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pontuacao-jogador {
+    font-size: 56px;
+    color: rgb(60, 60, 60);
+    font-family: 'Orbitron', sans-serif;
+}
+
+.pontuacao-cpu {
+    font-size: 56px;
+    color: rgb(60, 60, 60);
+    font-family: 'Orbitron', sans-serif;
+}
